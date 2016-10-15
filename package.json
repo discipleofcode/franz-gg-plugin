@@ -1,0 +1,23 @@
+{
+  "name": "GG",
+  "version": "1.0.0",
+  "description": "Gadu-Gadu",
+  "main": "index.js",
+  "author": "Rafael Piazdecki <rafael@piazdecki.pl>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://gg.pl",
+    "serviceName": "GG",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": true
+  }
+}

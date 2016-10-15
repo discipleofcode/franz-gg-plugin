@@ -1,0 +1,162 @@
+#sr-advert-container, #sr-footer {
+  display: none !important;
+}
+
+/*#sr-header > #sr-navbar-wrapper {
+  visibility: hidden;
+}
+
+#sr-page {
+  margin-top: -20px;
+}*/
+
+#main {
+  display: none;
+}
+
+nav.main-navigation.yellow {
+  display: none;
+}
+
+footer {
+  display: none !important;
+}
+
+a.btn.btn-larger.btn-primary {
+  display: none;
+}
+
+div#logo-container > .span5 {
+  width: 100% !important;
+  height: auto !important;
+}
+
+div#logo-container > .offset1 {
+  margin: 0 !important;
+}
+
+div#logo-container h1 span {
+  display: none;
+}
+
+#logo-container {
+  background: none !important;
+  text-align: center;
+  top: calc(50vh - (563px / 2));
+}
+
+body {
+  background: none;
+}
+
+#logo-container h1 {
+  padding: 0 !important;
+}
+
+#logo-container h1 img {
+  display: inline-block;
+  left: -3px !important;
+}
+
+#content {
+  box-shadow: none !important;
+  width: 100% !important;
+  background-color: #f3f3f3 !important;
+}
+
+div#login-form-container {
+}
+
+#logo-container #login-form-container {
+  margin-top: -180px !important;
+  background-position: calc(50% + 24px) calc(50% - 61px);
+  float: none;
+  width: auto !important;
+  display: inline-block !important;
+  margin-left: -45px !important;
+  position: relative;
+  z-index: 20;
+}
+
+/* --- */
+
+#sr-main {
+  margin-bottom: 0 !important;
+}
+
+#sr-subheader, #sr-main, #sr-navbar {
+  width: 100% !important;
+}
+
+#sr-subheader {
+  height: 62px !important;
+}
+
+#sr-header {
+  height: auto !important;
+}
+
+#sr-logo {
+  width: 100%;
+}
+
+#sr-logo > a {
+  width: 249px !important;
+  height: 36px !important;
+  background: #fff !important;
+  box-shadow: none !important;
+  border: 0 !important;
+
+}
+
+#sr-logo > a > strong {
+  z-index: 100;
+}
+
+#sr-webgg-account {
+  top: 36px !important;
+  width: 249px !important;
+  box-shadow: none !important;
+  border-right: 1px solid #ccc;
+}
+
+#sr-avatar-widget {
+  border-left: 1px solid transparent;
+}
+
+#sr-mainnav {
+  margin-left: 250px !important;
+}
+
+#sr-contact-list-panel {
+  background-color: #fff !important;
+}
+
+#sr-contact-list-search {
+  border: 0 !important;
+  background-color: #fff !important;
+}
+
+.avatar-widget {
+  border: 0 !important;
+  border-right: 1px solid #ccc !important;
+  top: 0 !important;
+}
+
+#sr-webgg {
+  border: 0 !important;
+  border-right: 1px solid #ccc !important;
+  width: 249px !important;
+  height: calc(100vh - 98px) !important;
+}
+
+.sr-scrollbars::-webkit-scrollbar-thumb {
+  box-shadow: none !important;
+  border: 0 !important;
+  border-radius: 0 !important;
+  background-color: #ccc !important;
+}
+
+#sr-page:after {
+  height: 0 !important;
+}
