@@ -258,3 +258,8 @@ body {
 #sr-mainnav LI A:hover, #sr-mainnav LI A.active {
   color: #fff !important;
 }
+
+.main-advert-container, #sr-window-cover {
+  display: none !important;
+}
+
